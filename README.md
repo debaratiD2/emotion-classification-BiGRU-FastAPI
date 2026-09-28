@@ -11,8 +11,6 @@ FastAPI application.**
 
 **GitHub:** [https://github.com/debaratiD2/analyzing_sentiments_using_FastAPI ](https://github.com/debaratiD2/emotion-classification-BiGRU-FastAPI/) 
 
-**Tutorial that inspired this project:** [Emotion classification / FastAPI tutorial](https://youtu.be/mXW4NzapGhQ?si=0JNV4-fNKQ6QAa5f)
-
 ### Example
 
 **Input**
